@@ -100,7 +100,7 @@ public class MenuController extends BaseController {
 	}
 
 
-	
+
 	@Log("删除菜单")
 	@RequiresPermissions("sys:menu:remove")
 	@PostMapping("/remove")
