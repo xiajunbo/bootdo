@@ -15,6 +15,6 @@ public class BootdoApplication {
         SpringApplication.run(BootdoApplication.class, args);
         System.out.println("hello branch");
         System.out.println("hello dev");
-
+        System.out.println("hello bug");
     }
 }
